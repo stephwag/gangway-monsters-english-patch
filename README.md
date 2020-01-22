@@ -48,4 +48,4 @@ Create an [issue](https://github.com/stephwag/gangway-monsters-english-patch/iss
 
 If you happen to know Japanese and want to help correct any translations, please contribute! The least accurate translations are probably the "monbook" ones, and any dialogue with a lot of "emotion" in it.
 
-If you want to contribute by fixing bugs or adding features, see NOTES.md for notes on what parts were changed (it will probably save you some time) and any TODOs related to those changes.
+If you want to contribute by fixing bugs or adding features, see [NOTES.md](https://github.com/stephwag/gangway-monsters-english-patch/blob/master/NOTES.md) for notes on what parts were changed (it will probably save you some time) and any TODOs related to those changes.
