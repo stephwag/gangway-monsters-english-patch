@@ -4,19 +4,19 @@ Notes on what parts of the game's logic has been changed.
 
 The way the monsters' names are rendered in the VS screen had to be updated for it to show up.
 
-battle_text_address.png
+<img src="https://github.com/stephwag/gangway-monsters-english-patch/blob/master/debug/images/battle_text_address.png" width="25%">
 
 * `11B500` is the address location (see register `s7`) of the asset that is used to render text.
 * `C1A74` is when it updates the pointer to the the Japanese character it will render.
 
-battle_text_change_command.png
+<img src="https://github.com/stephwag/gangway-monsters-english-patch/blob/master/debug/images/battle_text_change_commands.png" width="25%">
 
 * `B1C6C` - game will jump here after loading the monster names in memory. Change it from `lbu v0, 0x0000(a0)` to `ori v0, 0x0083` 
 * `B1C70` - Change it from `lbu v1, 0x0001(a0)` to `lbu v1, 0x0000(a0)`
 
 This changes it to load only the first and current byte. The or-ing with `0x83` is to fake a shift-jis character.
 
-battle_text_swap_command.png
+<img src="https://github.com/stephwag/gangway-monsters-english-patch/blob/master/debug/images/battle_text_swap_commands.png" width="25%">
 
 * `C1A1C` - Change this to `addiu a0, s1, 0x0008`
 * `C1A20` - Change this to `sll s0, s1, 0x1`
