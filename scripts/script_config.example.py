@@ -1,0 +1,6 @@
+TRANSLATIONS_PATH = "../en-ja"
+GAME_DATA_IN_DIR = "/path/to/game/files"
+GAME_DATA_OUT_DIR = "/path/to/patched/game/files"
+GAME_IMAGE_DIR = "/path/to/patched/game"
+GAME_IMAGE_EMU_BIN = "/emulator/path/to/game/game.bin"
+GAME_DATA_IN_DIALOGUE_DIR = "/path/to/game/files/with/updated/dialogue"

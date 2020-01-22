@@ -1,0 +1,387 @@
+To join in the A League, all the monsters require more experience.
+To join in the B league, all the monsters require more experience.
+A level 15 monster or higher and a black cause ball are required.
+Oh, it's impatient to to join the A league before the B league.
+There are no monsters you can create with your cause balls.
+There are no monsters you can generate with a cause ball.
+No, no, you have to win at least once in the C league.
+No, no, you have to win at least once in the B league.
+Nope, we need to be able to go to the B league first.
+You aren't eligible to participate in the B league
+No good, you've beaten the stage master, no good.
+For the time being, participate in the B league.
+Oh, you're going to beat the stage master again?
+I can't let such a person participate here.
+I can't let such a person participate here.
+That's when they win the C league around once.
+That's when they win the B league around once.
+On the whole, should I practice a little more?
+Isn't it better to know your body first?
+Is it okay to try various combinations?
+<name>'s monsters are all masters.
+Also, view the other party's info with □ .
+You can't participate in the A-League yet.
+No good, A-league has to work harder.
+No good, B-League has to work harder.
+You already beat the stage master.
+You are not eligible for the league.
+You already beat the master already, right?
+There must be a little stronger monster.
+Please come back with your sister again.
+This stage seems to you too early.
+You have never won the C League.
+You have never won the B League.
+You can't be in the B league yet.
+you need three types of cause balls.
+It's too early to join the A League.
+It's too early to join the B league.
+You already beat the stage master.
+I need a little more monster level.
+You shouldn't need to buy any more.
+As expected, isn't it possible?
+Monsters, all work together.
+Monsters, all work together.
+It's better to work harder.
+It's better to work harder.
+I need a little strong monster.
+I need a little strong monster.
+Do your best in the C League.
+Do your best in the B League.
+First, aim for the B league.
+Isn't the level a little short?
+You've won the master here.
+Oh, I was expecting a little.
+No further growth is needed.
+Do not remove the memory card.
+Isn't this your ability?
+Which combination do you make?
+Hey, what league you wanna join?
+I don't know if I can't do it.
+You won't be in the A-League.
+Which monster will you grow?
+For now, try the C league.
+For now, try the B league.
+You can do it, despite looks.
+The B league is still early.
+Insufficient overall ability
+Which league will you join?
+Guy who can’t win B league
+A league is still early.
+Ah, go back to the C league,
+Ah, go back to the B league,
+I'll do my best next time.
+I'm glad you came again.
+Now, who will you play?
+The game is luck of time.
+Oh yeah...disappointing.
+Choose a league to join.
+Welcome to Sky Stadium.
+Choose a league to join.
+To generate a monster,
+No memory card found.
+Get well and work hard!
+Get well and work hard!
+Checking memory card.
+ □ for the other party.
+Please do your best.
+A strong man is steki.
+Well, what'll you do?
+Do you want to save?
+Go to the last battle.
+Well, what'll you do?
+Do you want to format?
+I can't have any more.
+You must be talented.
+Who will you fight?
+A monster was born.
+Something like this.
+No, no weak man
+I've waited for you.
+It's a big deal.
+Who will you fight?
+Please come again.
+You came again.
+Data is corrupted.
+Don't bring items
+Please try again.
+I'll do my best.
+You're stronger.
+You cannot grow.
+File not found.
+Not formatted.
+Congratulations.
+Not initialized.
+Fight with Paidea
+Not enough G, yup.
+Will you buy this?
+What will you buy?
+Good luck today.
+You don't do it.
+That's wonderful.
+I'm coming back.
+Well, at best.
+Good luck today.
+Star was born.
+Come again, yup.
+Do you sell this?
+, what'd you like?
+Don't feel down.
+It's not easy.
+It's not easy.
+We will wait.
+How do you like?
+Do you do it?
+It's not easy.
+Which league?
+No free space.
+That's amazing.
+I'll come again.
+All monsters,
+Make a new one?
+Load file?
+Welcome back.
+See you later.
+I didn't do it.
+It’s not great.
+Now, Gamba! !
+You are strong.
+Please come.
+Yes, yes.
+I do it firmly!
+Formatting.
+File exists.
+I support you.
+Do your best〜.
+In great shape
+Sounds good.
+Can’t see you.
+Which league?
+Good luck.
+You have it.
+You can buy
+Please go.
+In great shape
+Good luck!
+Don't fall.
+You're cool 〜
+Create monster
+Monster growth
+Formatted.
+Formatted.
+Want to start?
+What is it?
+What is it?
+What is it?
+In that tone.
+Do your best!
+You can buy
+Good luck.
+Come again.
+Please come.
+Please come.
+Decide soon.
+What to do?
+Which one?
+Silver devil
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+What is it?
+Mr. <name>
+Which one?
+Good luck.
+Cheer up! !
+Which one?
+Oh, sorry.
+Coin pocket
+Schlesinger
+has grown.
+C'mon in.
+Do not have
+C'mon in!
+You did it!
+Pydia body
+Creating.
+Is it OK?
+Oh, you.
+You came.
+Also you?
+Choose one
+I failed.
+Wow wow.
+Wow wow.
+Not good.
+Soooooooo
+Welcome.
+Umwetter
+Gibraltar
+Aldebaran
+Belt loop
+Side seam
+Created.
+Loading.
+Loaded.
+Albatrov
+Tempesta
+Saffilia
+Saving.
+Saved.
+No items
+Oh no.
+Oh no.
+Woodpec
+Iwashkov
+Sishamon
+Amethyst
+Mangolow
+Anacondo
+Alligate
+Chukapag
+Gretoria
+Thompson
+Hello.
+Huh ...
+See you.
+Griffin
+Tampeto
+Shakkon
+Canopus
+Antares
+Smeraldo
+Astica
+Orangut
+Beefoot
+mask man
+spindle
+No data
+...yup.
+So I.
+Falkov
+Boolean
+Tuella
+Serrace
+Jupita
+Scopie
+Christa
+Golipin
+Gelato
+Namiboo
+Takara
+Saharan
+Slot 1
+Slot 2
+Ah! !
+Braken
+Oren ヂ
+Whiter
+Greena
+Sturm
+Sizimi
+Holmes
+Melaka
+Dessel
+Tritan
+Mama's
+Jumina
+Helios
+Soleil
+Indus
+Tigru
+Niiris
+Papaya
+Dorian
+Gostin
+Pirani
+Yeddy
+zipper
+stitch
+Eclair
+Gargal
+Stall
+Goldou
+Marine
+Pydia
+A type
+B type
+C type
+What〜
+Ayoyo
+Yes!
+Wow.
+Redon
+Bloom
+Fukuro
+Hirami
+Drake
+Dover
+Navis
+Skiff
+Capela
+Sagit
+Luffy
+Diane
+Taiyo
+Sonza
+Benana
+Hipopo
+Pitex
+Wutan
+Pansy
+button
+Annin
+cream
+Nedaba
+Takdo
+Claire
+McKon
+Fast+
+Pippi
+Tobio
+Barco
+Naive
+Beena
+Capri
+Airy
+Longa
+jelly
+jello
+Goby
+Mimmy
+Fox
+Money
+Money
+Usual
+No.
+Hey.
+Hey.
+Hey.
+Yes.
+Gray
+Luna
+Tola
+Maya
+coin
+Slow
+Fast
+Bow
+Vega
+name
+Back
+Aki
+Sol
+Sun
+Oka
+萎
+憊
+衣
+憑
+倨
+鞨
+白
+赤
+緑
+青
+黄
+黒
+紫

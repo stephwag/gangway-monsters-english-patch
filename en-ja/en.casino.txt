@@ -1,0 +1,375 @@
+If you take part in a pockle race, you have over 100 coins.
+Only recognized monster owners are allowed in.
+If you participate in Pockle Stone, buy 5 or more coins.
+If you want to get a pockle card, you need 5 coins.
+Fufufu, let's show the Tak Daw style Pockle Stone!
+Maybe unsuitable..Let's meet at the stadium later!
+I'm Schlesinger, the strongest man of pocklestone.
+I'll get another invitation once you can join.
+I'll get another invitation once you can join.
+If the coins are 0, you can't play in the race.
+It's a game to compete for a combo of 5 cards.
+Please refer to the various information.
+You need an invitation to gamble here.
+You can't participate in the pockle card.
+The sandwiched frame will be turned over.
+Saying a draw is my defense, hohoho!
+You can't take part in the pockle race.
+Well, if you try it for now, you know?
+Do you want to skip the elderly turn!
+This is no place for children.
+You can see it as soon as you try it.
+Select card & press ○ to remove it.
+Think, a strong opponent is coming.
+Simply put, 4 monsters race.
+It wasn't a Takudo style enemy.
+First of all, what is your arm?
+Choose how many coins to spend.
+I want you to replenish coins.
+Combo of 3 and 2 same monsters
+Replace it w/ a mountain card.
+Get coins from your opponent.
+1-5 combos of the same monster
+5 different monsters & poses
+Combo of 5 cards w/ same pose
+Well, what do you want to do?
+I'm a tough opponent.
+Let's have another game!
+Well, according to the rules
+How many coins do you buy?
+The success of the year..
+I thought you would come.
+So, you want to gamble?
+It ’s not easy to do it.
+Hi, Claire...
+I'm playing with Takudo!
+Mimi is your partner!
+Combo of 2 same monsters
+Combo of 3 same monsters
+Combo of 4 same monsters
+What do you want to do?
+What you do is amazing.
+Here comes Schlesinger!
+Your opponent: Thompson!
+It ’s “three together”.
+I wanna see you again...
+Repeat this alternately,
+Please enjoy yourself.
+He's the strongest man.
+It's a childhood friend
+Uhyohyo ... what is it?
+"Everyone is together!"
+Then, each other's card
+Hey, what do you do?
+Expect and bet coins.
+In such a simple game,
+... well, well, anyway
+Shall I explain rules?
+I want you to go home.
+"It's full of pockles"
+Mountain card is gone,
+Pockle 1-5 combination
+This is the hi-mi-tsu.
+Did I say this before?
+Wow, it's dangerous..
+Yeah, fight me again!
+Can't show my thoughts
+The "Full of Pockles"
+The "Full of Pockles"
+You decide your stake.
+The danger increases.
+When you select a card
+Not enough cards left
+According to the role
+To see the role info
+Thank you very much.
+You must be clear!
+Maybe we feel good.
+Mumumu ... I'm done!
+There are few coins.
+...Well, it's gone.
+Gyo ... what is it?
+"Four together" game
+"Do you get along?"
+He's strongest man!
+I need more coins.
+It ’s taken a lot.
+I was able to do it.
+Fufufu...what is it?
+"Nakayoshi" Complete
+..This kind of thing
+I need more coins.
+Card you'll exchange
+After replacing card
+Shown in %ld coins.
+I need more coins.
+One more, one more!
+You're sloppy, you.
+No place to put it.
+"Everyone together"
+"Full of pockles"
+Choose any amount.
+You need more coins.
+You need more money.
+What will you do?
+Calculate dividend.
+I'll go once more!
+I give you a coin!
+Looks like my win!
+It was a fun game.
+Don't be careless.
+Well, I'll stop.
+More you put, more
+If you put a frame
+I'm the winner.
+This is expensive.
+I finally did it!
+Anyway ... what?
+I finally did ...
+I choose with ○ .
+I can cancel it.
+The selected card
+Press the button.
+The first monster
+Hear explanation?
+I'm the strongest.
+It's the strongest
+I did it! I won.
+Fufufufufufufu...
+If no place to put
+...It's terrible.
+You are quite good
+That's what it is.
+Please go ahead.
+The more you bet,
+First, five cards
+Card I'll exchange
+The explanation is
+Come, snow fight!
+You think so too?
+"U bad?" Complete
+That's no use ...
+"Four together"
+Then, per game
+To make a stop,
+I'll come around.
+Replace with %s.
+Come play again.
+Don't come here
+Let's go back.
+Race has started.
+It's a draw ...
+Do n’t do that.
+I'll tell you!
+You'll get it.
+"Three together"
+Start the game.
+Make a good role
+You listen? Huh?
+Replace with %s?
+Replace with %s?
+Replace with %s?
+To draw a game
+Last exchange
+Profit is nice,
+Your nomination.
+Choose another.
+Let's go again!
+I can’t put it.
+I won't do it!
+I won't lose!
+...hahahahaha.
+Can't be there
+What do you do?
+I'll give you.
+Please ask ...
+"Two together"
+That's the end.
+Next is my turn
+That's the end.
+The pockle card
+Why is this!
+See Thompson!
+<name> -kun!
+Your opponent!
+What is it?
+Father! Mom!
+"Two together"
+Alright, done!
+"Full house"
+Press STOP.
+Again, explain
+I'm coming.
+Are you sure?
+Are you sure?
+Then here.
+Pockle stone.
+I was waiting.
+Good luck.
+Umm, sorry!
+Onee loses.
+LaLa♪ LaLa♪
+……… Um ………
+Pockle stone
+I'm losing.
+I'll give you.
+I'm losing.
+I'll give you.
+I feel good.
+It's a draw.
+It's a crack.
+I could do it.
+It's hard ...
+I understand.
+Last exchange
+Either stop
+Exchange items
+I understand.
+Let's go back.
+To little boy
+He's strong.
+I'll get you.
+I'll get you.
+"Full House"
+This is big!
+...Ska...
+I'm starting.
+Think again.
+I will win.
+If it's hard,
+Want to ask?
+Pockle race.
+Pockle card.
+Betting on..?
+I think no.
+I was done.
+That's OK.
+I'm sorry.
+"OK" button
+I like you.
+Liquidation.
+All right!?
+If I do
+You can put
+Come on
+Um, umm〜
+What's that?
+Welcome!
+Completed!
+"Nakayoshi"
+Put simply,
+I'm sorry.
+I'm sorry.
+I'm sorry.
+I'm sorry.
+I'll enter.
+I'm sorry.
+I'm sorry.
+I'm sorry.
+I'm sorry.
+What...
+Welcome!
+Yeah? Yeah?
+What is it!
+Among them,
+To be safe,
+Welcome!
+Congrats!
+Mumumu...
+Come on!
+Wow, you?
+I won.
+I did it.
+It's a ska
+Give away.
+Until call
+Press GO,
+Welcome.
+Welcome.
+Welcome.
+Oh, boo!
+I'm sorry.
+Hear rules
+I can't!
+No, no!
+Also ~!
+Bullshit!
+Hohohoho.
+Hey! ?
+I can win!
+How is it!
+Press it.
+………that?
+..Right?
+Open it.
+Okay,
+Well then
+Buy coin
+It's %s.
+Mimi!
+Claire
+ coin
+ coin
+ coin
+ coin
+ coin
+ coin
+This is?
+This is?
+Fugo!?
+That!?
+Well now
+Do it.
+Rules
+No hear
+Give in
+Hooray~
+Yeesss.
+Yeesss.
+Yeesss.
+Yeesss.
+Yeesss.
+Hey〜
+Yeesss.
+Yeesss.
+Yeesss.
+Yeesss.
+Yeesss.
+Yeesss.
+Yeesss.
+Oh〜.
+Wow!
+Yeah!
+Good.
+Uh ...
+Uh...
+stop!
+Ufufu.
+Hey〜
+Okay?
+Okay?
+100 枚
+200 枚
+400 枚
+That,
+Okay~
+you!
+Stop
+Go on
+Then
+Yeah.
+Yeah.
+Money
+20 枚
+10 枚
+20 枚
+50 枚
+Stop
+go!
+eh.
+Back
+5 枚
+5 枚
+%s
+ｸﾑ
+璢

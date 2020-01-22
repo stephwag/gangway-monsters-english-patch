@@ -1,0 +1,22 @@
+Player 1 Want to vibrate?
+Player 2 Want to vibrate?
+Player 1
+Do you want to set it?
+Player 2
+No items
+Don't bring items
+Back
+Do not have
+Load match data?
+Player 2 data
+Load data?
+Checking memory card.
+File not found.
+Not formatted.
+Sure you want to load?
+Loading.
+Do not remove the memory card.
+Data is corrupted.
+No memory card found.
+I failed.
+Gr
