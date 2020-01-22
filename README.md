@@ -1,6 +1,6 @@
 # Gangway Monsters English Patch
 
-This is the English patch for the PS1 game, Gangway Monsters.
+This is the English patch for the PS1 game, [Gangway Monsters](https://www.giantbomb.com/gangway-monsters/3030-23375/).
 
 The translations were done using Google Translate.
 
