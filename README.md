@@ -1,6 +1,6 @@
 # Gangway Monsters English Patch
 
-This is the English patch for the PS1 game, Gangway Monsters.
+This is the English patch for the PS1 game, [Gangway Monsters](https://www.giantbomb.com/gangway-monsters/3030-23375/).
 
 The translations were done using Google Translate.
 
@@ -42,10 +42,10 @@ patch /path/to/game.bin < /path/to/gangway_monsters_english.patch
 
 ## Reporting bugs, typos, etc.
 
-Create an issue.
+Create an [issue](https://github.com/stephwag/gangway-monsters-english-patch/issues).
 
 ## Contributing
 
 If you happen to know Japanese and want to help correct any translations, please contribute! The least accurate translations are probably the "monbook" ones, and any dialogue with a lot of "emotion" in it.
 
-If you want to contribute by fixing bugs or adding features, see NOTES.md for notes on what parts were changed (it will probably save you some time) and any TODOs related to those changes.
+If you want to contribute by fixing bugs or adding features, see [NOTES.md](https://github.com/stephwag/gangway-monsters-english-patch/blob/master/NOTES.md) for notes on what parts were changed (it will probably save you some time) and any TODOs related to those changes.
