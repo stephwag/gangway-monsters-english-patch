@@ -7,7 +7,7 @@ The translations were done using Google Translate.
 ## How to apply patch
 
 * Obtain a ROM of the game (it should have one `.bin` file and one `.cue` file).
-* [Download the patch here](https://gangway-monsters-english.s3.amazonaws.com/gangway_monsters_english_v0.1.patch.xz).
+* [Download the patch here](https://gangway-monsters-english.s3.amazonaws.com/gangway_monsters_english_v0.2.patch.xz).
 * Follow the instructions below.
 
 ### Windows
