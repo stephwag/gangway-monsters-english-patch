@@ -9,7 +9,7 @@ Fence contact
 Checking memory card.
 God birthplace
 Fence attack
-Set a creator-only flag
+Set the developer flag
 Stroking hands
 Gambling
 Angel Mania (Adult)
@@ -114,7 +114,7 @@ Put the ball
 Quake
 Flying ax
 Test window
-Listen
+Sound Test
 Joe (adult)
 Joe (child)
 Spread card
@@ -124,7 +124,7 @@ Tail waving
 3 per punch
 2 per punch
 1 per punch
-Listen music
+Music Test
 Burning
 Race start
 Shuriken
