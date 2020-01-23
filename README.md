@@ -34,6 +34,9 @@ patch /path/to/game.bin < /path/to/gangway_monsters_english.patch
 
 * Give it a minute to complete applying the patch.
 
+## Screenshots
+
+<img width="20.5%" src="https://github.com/stephwag/gangway-monsters-english-patch/raw/master/screenshots/1.png"><img width="19%" src="https://github.com/stephwag/gangway-monsters-english-patch/raw/master/screenshots/2.png"><img width="18.8%" src="https://github.com/stephwag/gangway-monsters-english-patch/raw/master/screenshots/3.png"><img width="19%" src="https://github.com/stephwag/gangway-monsters-english-patch/raw/master/screenshots/4.png"><img width="18.7%" src="https://github.com/stephwag/gangway-monsters-english-patch/raw/master/screenshots/5.png">
 
 ## Building a Patch
 
