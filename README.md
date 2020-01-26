@@ -45,7 +45,7 @@ patch /path/to/game.bin < /path/to/gangway_monsters_english.patch
 
 ## Reporting bugs, typos, etc.
 
-Create an [issue](https://github.com/stephwag/gangway-monsters-english-patch/issues).
+Create an [issue](https://github.com/stephwag/gangway-monsters-english-patch/issues). See [known issues](https://github.com/stephwag/gangway-monsters-english-patch/issues/1) for currently known issues.
 
 ## Contributing
 
